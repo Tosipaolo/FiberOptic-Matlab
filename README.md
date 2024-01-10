@@ -9,3 +9,5 @@ the attenuation in the fiber, the phase shift introduced, and the light recievin
 It is possible to see the difference between a standard transmission and a transmission where a section of phase-compensating fiber is introduced in the system.
 
 Results are visualised through observation of the obtained EYE diagram and BER.
+
+Full specifications and code explanation can be found in relazione/text/Relazione.pdf
